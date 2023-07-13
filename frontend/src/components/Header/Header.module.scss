@@ -18,6 +18,12 @@
         gap: 30px;
     }
 
+    &__right {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
     &__logo {
         width: 120px;
         height: 27px;

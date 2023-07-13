@@ -9,5 +9,10 @@
         font-weight: 400;
         line-height: normal;
         color: rgba(255, 255, 255, 0.80);
+        cursor: pointer;
+        transition: .2s all ease;
+        &:hover {
+            border-bottom: 2px solid rgba(255, 255, 255, 0.80);
+        }
     }
 }

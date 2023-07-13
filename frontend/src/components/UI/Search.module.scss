@@ -2,14 +2,18 @@
     border-radius: 40px;
     border: 1px solid rgba(255, 255, 255, 0.20);
     background: rgba(0, 0, 0, 0.10);
+    width: 295px;
     input {
         background: rgba(0, 0, 0, 0.10);
         padding: 10px 14px;
         color: rgba(255, 255, 255, 0.60);
         font-size: 16px;
     }
+
+    &__loop {
+        width: 19.082px;
+        height: 19.202px;
+        margin: 10px 16px 0 0;
+    }
     
 }
-.search-input {
-
-  }
